@@ -1,0 +1,38 @@
+	10+ html tags I used in this project:
+	
+1. link
+2. script
+3. meta
+4. header
+5. div
+6. nav
+7. ul
+8. li
+9. table
+10. tr
+11. td
+12. a
+13. section
+14. h1
+15. h3
+16. p
+17. span
+18. img
+	
+	5+ different CSS selectors I used in this project:
+1. * with 7 properties: font-family, margin, padding, box-sizing, outline, border, and transition
+2. html with 2 properties: font-size, overflow-x
+3. body with 3 properties: background, overflow-x, padding-left
+4. section with 2 properties: min-height and padding 
+5. .btn with 8 properties: padding, background, color, cursor, margin-top, font-size, border-radius, and text-decoration
+6. .icon with 5 properties: color, cursor, font-size, text-decoration, background
+7. header with 12 properties: position, top, left, z-index, height, width, background, display, align-items, justify-content, flex-flow, text-align
+8. #menu with 10 properties: position, top, right, background, color, cursor, font-size, padding, z-index, display
+9. .home with 5 properties: margin-top, display, justify-content, flex-flow, padding 
+10. .accordion with 8 properties: accordion-btn-bg, accordion-active-bg, accordion-active-color, accordion-bg, accordion-color, accordion-btn-focus-box-shadow, accordion-btn-icon, accordion-btn-active-icon
+11. @media
+	
+	
+I used Javascript to add interactive menu button. While the homepage must need the responsive requirement, to prevent some 'breakdown', I  implemented slide menu which can hide or show up. I used the Javascript to add function to floating menu button which can show or hide the side menu while in narrower display. 
+	
+I used 2 elements from Bootstrap. One element is carousel in 2 pages, the other one is accordion. I used them to make some interesting aspects.
